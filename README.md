@@ -21,7 +21,7 @@
 - I love typescript, so write type declaration for many open source project that I use.
   You can check out my open source contribution here: https://github.com/naveenda
 
-### 4. Write a blog
+## 4. Writing blog posts
 
 - I write blogs about programming, open-source, etc. I believe education is must accessible to everyone, so I never monetize my content.
 - My articles are primarily focused on React and JavaScript Fundamentals.
