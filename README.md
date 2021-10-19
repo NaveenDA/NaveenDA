@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NaveenDA</h1>
 
-### I am a full-stack developer with a passion for learning and having 5+ years of experience in designing and developing web apps. A quick 6 things about me and my skills.
+I am a full-stack developer with a passion for learning and having 5+ years of experience in designing and developing web apps. A quick 6 things about me and my skills.
 
 ## 1. Working on Early startup
 
