@@ -49,7 +49,7 @@ When I was studying mechanical engineering, my primary hobby was coding until I 
 
 - I love street photography, so I took a lot of photos in my free time.
 - I like the concept "How different camera lenses can communicate the camera". After researching this topic, I found a system for app design called "Actor Model" now I start using it.
-  You can check out my photography here: https://instagram.com/naveenda_
+  You can check out my photography here: https://instagram.com/naveenda_clicks
 
 
 ## Languages and Tools 
