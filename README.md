@@ -13,7 +13,8 @@
 - 🔧  10+ years of experience building scalable software across early-stage startups and billion-dollar companies.  
 - 🧠  Currently working as a **Founding Engineer at PestoAI**, building intelligent systems that scale.  
 - 🎓  Graduated with an **MSc in Big Data Science** from Queen Mary University of London *(Sep 2022 – Sep 2023)*.  
-- 💬  Open to consulting, product discussions, or collaboration in AI, SaaS, or developer tooling.  
+- 💬  Open to consulting, product discussions, or collaboration in AI, SaaS, or developer tooling.
+- Helping [Resumegrade](resumegrade.ai)
 
 ---
 
